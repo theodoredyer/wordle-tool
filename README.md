@@ -5,4 +5,4 @@ Simple script to help users identify possible word selections for the game Wordl
 
 #### How to Use
 - Clone this repository & run on command line 'python main.py' 
-- I'll probably end up redoing it in javascript at some point and putting it on my site @ theodoredyer.github.io
+- I'll probably end up redoing it in javascript at some point and putting it on my site @ https://theodoredyer.github.io/
